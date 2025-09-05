@@ -9,7 +9,7 @@ Yuhang Dai, Ziyu Zhang, Hongfei Xue, Longhao Li, Zhao Guo, Qing Wang, Tianlun Zu
 <p>
     <img src="src/logo/NPU.jpg" alt="Institution 5" style="width: 220px; height: 60px;">
     <img src="src/logo/AISHELL.jpg" alt="Institution 6" style="width: 200px; height: 60px;">
-    <img src="src/logo/teleai.png" alt="Institution 7" style="width: 150px; height: 60px;">
+    <img src="src/logo/teleai.png" alt="Institution 7" style="width: 200px; height: 80px;">
 </p>
 This is the official repository 👑 for the WenetSpeech-Chuan dataset and the source code for Chuan-Pipe speech data preprocessing pipeline.
 
